@@ -1,6 +1,6 @@
 
 ___
-#### 🎓 **INFORMATICA MATERIAS UNLP** 🎓
+#### 🎓 **MATERIAS INFORMATICA UNLP** 🎓
 | PRIMER AÑO  | SEGUNDO AÑO |              
 |--------------|--------------|
 | [**CADP**](https://github.com/Caarito/Materia-CADP) | [**ISO**](https://github.com/Caarito/Materia-ISO)|              
