@@ -12,7 +12,7 @@ Soy una estudiante de la carrera Analista en Tecnologías de la Información y l
 
 
 ___
-#### 🎓 **MATERIAS INFORMATICA UNLP** 🎓
+#### 🎓 **TRABAJOS PRÁCTICOS UNLP** 🎓
 | PRIMER AÑO  | SEGUNDO AÑO |              
 |--------------|--------------|
 | [**CADP**](https://github.com/Caarito/Materia-CADP) | [**ISO**](https://github.com/Caarito/Materia-ISO)|              
