@@ -2,7 +2,7 @@
 
 ![""](https://github.com/Caarito/Imagenes/blob/main/banner2.jpg)
 
-Soy estudiante de la carrera Analista en Tecnologías de la Información y la Comunicación en la UNLP de informática.
+Soy una estudiante de la carrera Analista en Tecnologías de la Información y la Comunicación en la UNLP de informática.
 
 <p align="left">
 </p>
