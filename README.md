@@ -1,6 +1,6 @@
 ### ¡Hola! mi nombre es Carolina 
 
-![""](https://github.com/Caarito/Imagenes/blob/main/banner2.jpg)
+![""]
 
 Soy una estudiante de la carrera Analista en Tecnologías de la Información y la Comunicación en la UNLP de informática.
 
