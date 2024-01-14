@@ -1,7 +1,5 @@
 ### ¡Hola! mi nombre es Carolina 
 
-![""]
-
 Soy una estudiante de la carrera Analista en Tecnologías de la Información y la Comunicación en la UNLP de informática.
 
 <p align="left">
