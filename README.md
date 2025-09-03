@@ -32,8 +32,9 @@
 <img src="https://i.postimg.cc/fRjR9Yx3/segundoa-o.png)](https://postimg.cc/G4tR08gr" alt="segundo" width="200" height="" align="center">
 
   <a href="https://github.com/caroalonso/AyED">
-    <img height="100px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=caroalonso&repo=AyED&title_color=522c08&text_color=ff7b68&bg_color=f4cecb&border_color=522c08" />
-  </a>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=caroalonso&repo=AyED&title_color=522c08&text_color=ff7b68&bg_color=f4cecb&border_color=522c08" />
+</a>
+
 
 
 <hr style="border:2px solid black;">
