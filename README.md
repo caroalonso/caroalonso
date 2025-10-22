@@ -1,9 +1,12 @@
 
 <hr style="border:2px solid black;">
 
-<a href="https://github.com/caroalonso">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroalonso&layout=compact&theme=dark&title_color=020202&text_color=020202&bg_color=ffffffde&border_color=020202&v=1" />
-</a>
+  <a href="https://github.com/caroalonso">
+    <img
+      height="140px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroalonso&layout=compact&theme=dark&title_color=020202&text_color=020202&bg_color=ffffffde&border_color=020202&v=2"
+    />
+  </a>
 
 
 
